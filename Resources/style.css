@@ -1,6 +1,6 @@
 body {
-  background: black;
-  color: #fff;
+  background: whitesmoke;
+  color: black;
   font-family: "Open Sans", sans-serif;
   font-size: 15px;
   letter-spacing: 2px;
@@ -28,7 +28,7 @@ img {
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  border: 1px solid white;
+  border: 1px solid black;
   border-width: 2px;
   width: 290px;
   display: block;
@@ -39,7 +39,7 @@ img {
 
 a {
   text-decoration: none;
-  color: white;
+  color: black;
   transition: color 1s;
   cursor: pointer;
 }
